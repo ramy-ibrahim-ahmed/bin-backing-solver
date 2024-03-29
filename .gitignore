@@ -2,9 +2,6 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.$Untitled_Diagram[1].drawio.dtmp
-.$Untitled_Diagram[1].drawio.bkp
-Untitled_Diagram[1].drawio
 # C extensions
 *.so
 
